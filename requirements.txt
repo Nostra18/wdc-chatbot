@@ -3,3 +3,4 @@ langchain
 langchain_community
 SQLAlchemy
 langchain-google-genai
+langchain_core
